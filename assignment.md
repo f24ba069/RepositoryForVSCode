@@ -31,4 +31,14 @@
 
 これは ~~取り消し~~ です。
 
-## これからflutterStudioを使って学習を進めていきます。
+## これから学習を進めていきます。
+
+
+
+### todoリスト想定機能
+#### 機能
+・入力欄   やることを('textFiled')で入力する
+・追加ボタン   入力内容をリストに追加（FloatingActionButtonなど）
+・リスト表示     'ListView'でToDoを表示
+・削除    スワイプやボタンで削除機能
+・状態保持    'StatefulWidget'でToDoの状態を管理
